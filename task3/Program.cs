@@ -2,7 +2,7 @@
 // 4 -> да; -3 -> нет; 7 -> нет
 
 
-Console.WriteLine("Enter the number");
+Console.WriteLine("Enter the number: ");
 int num = int.Parse(Console.ReadLine());
 
 if (num % 2 == 0)
