@@ -16,3 +16,4 @@ else
     Console.WriteLine($"{num1} < {num2}");
     Console.WriteLine($"max = {num2}");
 }
+
