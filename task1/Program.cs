@@ -8,11 +8,11 @@ int num2 = int.Parse(Console.ReadLine());
 
 if(num1 > num2)
 {
-    Console.WriteLine($"the number {num1} greater than the number {num2}");
+    Console.WriteLine($"{num1} > {num2}");
     Console.WriteLine($"max = {num1}");
 }
 else
 {
-    Console.WriteLine($"the number {num1} is less than the number {num2}");
+    Console.WriteLine($"{num1} < {num2}");
     Console.WriteLine($"max = {num2}");
 }
